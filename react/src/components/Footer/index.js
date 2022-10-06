@@ -22,7 +22,7 @@ const Footer = () => {
                         </ContactList>
                         <ContactList>
                             <ContactItem label='統一編號' value='26324671' />
-                            <ContactItem label='勸募許可' value='衛部救字第 1101363536 號' />
+                            <ContactItem label='勸募許可' value='衛部救字第 1111362940 號' />
                             <ContactItem label='立案字號' value='環署綜字第 1000044076 號' />
                         </ContactList>
                     </Contacts>
