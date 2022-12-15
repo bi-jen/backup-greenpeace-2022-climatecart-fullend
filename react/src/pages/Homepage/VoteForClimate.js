@@ -70,7 +70,7 @@ const VoteForClimate = () => {
             <CTAWord>
                 一起當地球隊！<br />
                 捐款支持綠色和平<br className='-mobile-only' />
-                即贈<b>「Vote For Earth」</b>限量徽章
+                {/* 即贈<b>「Vote For Earth」</b>限量徽章 */}
             </CTAWord>
             <Link to={withSubSlug('/donate')}>
                 <StyledButtonWithIcon Icon={Icons.Arrow} theme='orange' center >我想捐款</StyledButtonWithIcon>
